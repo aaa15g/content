@@ -886,7 +886,7 @@
                 </div>
             </div>
             <div type="page" n="2"> </div>
-            
+
             <div type="item">
 
                 <p> The Egyptian Gazette An English Daily Newspaper, Established in 1880. Editor
@@ -948,11 +948,80 @@
                     him. </p>
 
             </div>
+
             <div type="page" n="3">
-                <!-- I did this entire page and verified all the text then realized the green scanning text boxes 
-                    overlapped so the text file was horrible so I have to redo the entire thing I apologize.-->
+                <!-- I did this entire page and verified all t
+                    he text then realized the green scanning text boxes 
+                    overlapped so the text file was horrible so I have to redo the entire thing I apologize.
+                UPDATE finished OCR, planning on doing xml of page 3 this week-->
+                <div type="item">
+
+                    <p> The Egyptian Gazette MONDAY, JANUARY 16, 1905.</p>
+
+                </div>
+                <!-- Col 1 -->
+                <div type="item">
+                    <p> RUSSIANS T NIU-CHWANG</p>
+                </div>
+                <div type="item">
+                    <p> TOKIO, January 14. The Russians left 62 killed and 6 wounded at Niuchwang.
+                        Their total casualties there and at Niuchatun are estimated at 300, and the
+                        Japanese at 16. The Japanese stores and magazines were not damaged.
+                        (Reuter.) </p>
+                </div>
+                <div type="item">
+                    <p> LIAO-YANG, January 14. Reuters correspondent with General Kuroki says that
+                        the Russian raiders traversed the neutral territory west of the Liao, and
+                        occupied the old town of Niuchwang. (Reuter.) </p>
+                </div>
+                <div type="item">
+                    <p> TOKIO, January 14. • The Press and the public are sharply criticising France
+                        for permitting a prolonged stay of the Baltic Fleet at Madagascar. (Reuter.)
+                    </p>
+                </div>
+                <div type="item">
+                    <p> JAPS CAPTURE BRITISH COLLIER. </p>
+                </div>
+                <div type="item">
+                    <p> ST. PETERSBURG, January 15. The “Novoya Vremia” publishes a telegram from
+                        Java stating that the Japanese have established a naval base at Labuan, and
+                        that the cable has ceased working for the purpose of concealing the fact.
+                        (Reuter.) </p>
+                </div>
+                <div type="item">
+                    <p> TOKIO, January 14. The Admiralty is preparing a fleet of submarines. (
+                        Havas.) </p>
+                </div>
+                <div type="item">
+                    <p> ST. PETERSBURG, January 14. The report on the Budget presented by the
+                        Russian Minister of Finance shows an estimated decrease of 65 1/2 million
+                        roubles compared with 1904. The lessened expenditure will be mainly in the
+                        Finance and Communications departments. Ten million roubles is assigned lor
+                        the doubling of the Siberian Railway, and another 18 million roubles to
+                        cover extra expenditure on the Trans Baikal line. Everything in the budget
+                        is calculated to strengthen confidence in the finances of Russia, whose
+                        monetary system and national economy remain unshaken after 11 months’ war. (
+                        Reuter.) </p>
+                </div>
+                <div type="item">
+                    <p> TOKIO, January 15. The Russian Note to the Powers, with reference to China’s
+                        neglect of her neutrality, is regarded here as absurd, seeing that the
+                        Russian cavalry raid was made from Chinese territory. It is felt that
+                        China’s weakness and the constant failure to enforce her neutrality must
+                        relieve Japan of her obligation to observe the restrictions which Russia
+                        herself ignores. Japan must protest against the repetition of raids whose
+                        success would be due to the violation of neutral territory. (Reuter.) </p>
+                </div>
+                <div type="item">
+                    <p> PARIS, January 15. M. Mascuraud has been elected senator. (Havas.) </p>
+                </div>
+
+
             </div>
             <div type="page" n="4"> </div>
+            <!-- Was unable to scan newspaper because of a combination of a bad schedule 
+                and of all 4 of the open machines not working at Stroz when I had time to go. 
+                Will try to make progress early this week -->
             <div type="page" n="5"> </div>
             <div type="page" n="6"> </div>
         </body>
